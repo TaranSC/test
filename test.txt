@@ -1,1 +1,1 @@
-This is a text document to test git. added line in the test branch.
+This is a text document to test git. added line in master branch.  added line in the test branch
